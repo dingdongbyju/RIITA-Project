@@ -1,0 +1,28 @@
+body {
+    background-image: url("main-qimg-8b585fb4a5c9fedbb899cfb0cf0331a7-lq.jpg");
+    font-family: 'Trebuchet MS';
+}
+.heading {
+    margin: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: bold;
+    line-height: 10px;
+    text-align: center;
+}
+
+#myCanvas {
+    border: 5px white solid;
+    margin-top: 160px;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 10px;
+    width: 500px;
+    height: 500px;
+}
